@@ -26,5 +26,17 @@
     "@vitejs/plugin-react": "^3.1.0",
     "tailwindcss": "^3.2.7",
     "vite": "^4.1.0"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchaindeveloper/3D_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchaindeveloper/3D_React/issues"
+  },
+  "homepage": "https://github.com/bchaindeveloper/3D_React#readme",
+  "description": ""
 }
