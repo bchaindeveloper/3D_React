@@ -24,6 +24,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
+          <img src={logo} alt="logo" className='small object-contain' />
         </Link>
       </div>
     </nav>
