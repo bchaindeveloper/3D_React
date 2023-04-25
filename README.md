@@ -6,7 +6,6 @@ This project utilizes 3D effects and gives the user a interactive page that is s
 ## Built with:
 
 React
-Motion
 Three.JS
 
 ## How to use?
