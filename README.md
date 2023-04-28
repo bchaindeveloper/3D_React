@@ -1,7 +1,8 @@
 # BChainDev
 This project utilizes 3D effects and gives the user a interactive page that is simple and fun.
 
-
+## Screenshots:
+![Screenshot](public/Screen.png)
 
 ## Built with:
 
@@ -14,7 +15,7 @@ First, run the development server:
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open LocalHost with your browser to see the result.
 
 ## Contribute:
 Feel free to a fork the repo or notify me of any issues that are present
